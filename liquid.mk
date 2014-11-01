@@ -9,9 +9,9 @@ $(call inherit-product, vendor/liquid/config/nfc_enhanced.mk)
 
 PRODUCT_NAME := liquid_d851
 PRODUCT_DEVICE := d851
-PRODUCT_BRAND := LGE
+PRODUCT_BRAND := lge
 PRODUCT_MODEL := LG-D851
-PRODUCT_MANUFACTURER := lge
+PRODUCT_MANUFACTURER := LGE
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_DEVICE="g3" \
